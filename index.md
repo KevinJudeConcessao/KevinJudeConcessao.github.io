@@ -32,7 +32,7 @@ and programming GPUs using the OpenMP library, organised by the National Superco
 
 ### Education
 - **Ph.D** Indian Institute of Technnology, Palakkad (2020 - ) 
-- **ME Computer Science** - Birla Institute of Engineering, Pilani, Hyderabad Campus (2018 - 2020)
+- **ME Computer Science** - Birla Institute of Technology and Science, Pilani, Hyderabad Campus (2018 - 2020)
   - Advisor: [Prof. Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/profile)
   - Thesis: Defeating Return-Oriented Programming with UProbes.
 - **BTech Computer Science and Engineering** - PES University, Bangalore (2014 - 2018)

@@ -29,6 +29,8 @@ _25th Asia-Pacific Conference on Communications (APCC 2019)_, IEEE ComSoc, Ho Ch
 - Teaching at NSS College of Engineering,, Palakkad (May 2022 - )
 - Teaching Assistant at a two day HPC workshop on using HPC clusters, OpenMP library, 
 and programming GPUs using the OpenMP library, organised by the National Supercomputing Mission, IIT Madras.
+- Teaching Assistant at IIT Palakkad: i) Compiler Design - Laboratory. ii) Compiler Optimizations and Program
+Analysis iii) Parallel Programming
 
 ### Education
 - **Ph.D** Indian Institute of Technnology, Palakkad (2020 - ) 

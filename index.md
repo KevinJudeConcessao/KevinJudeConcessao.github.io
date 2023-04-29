@@ -31,7 +31,7 @@ _25th Asia-Pacific Conference on Communications (APCC 2019)_, IEEE ComSoc, Ho Ch
 - Teaching Assistant at a two day HPC workshop on using HPC clusters, OpenMP library, 
 and programming GPUs using the OpenMP library, organised by the National Supercomputing Mission, IIT Madras.
 - Teaching Assistant for courses at IIT Palakkad: 
-    - Compiler Design - Laboratory (Jan-May, 2023 \& Jan-May, 2021) 
+    - Compiler Design - Laboratory (Jan-May, 2023 & Jan-May, 2021) 
     - Programming Lab (Aug-Dec, 2022)
     - Parallel Programming (Jan-May, 2022)
     - Compiler Optimizations and Program Analysis (Aug-Dec, 2021)

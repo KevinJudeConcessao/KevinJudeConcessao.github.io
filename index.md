@@ -6,6 +6,7 @@ I am a PhD research scholar at the Department of Computer Science and Engineerin
 
 ### Ongoing Research Work 
 - Dynamic Graph Algorithms on GPUs
+- Compiler for Temporal GNNs
 
 ### Research Advisor
 **Dr. Unnikrishnan Cheramangalath**  
@@ -26,11 +27,14 @@ _25th Asia-Pacific Conference on Communications (APCC 2019)_, IEEE ComSoc, Ho Ch
     Department of Computer Science and Engineering, by PES University, Bangalore.
 
 ### Teaching Experience
-- Teaching at NSS College of Engineering,, Palakkad (May 2022 - )
+- Teaching at NSS College of Engineering, Palakkad (May 2022 - )
 - Teaching Assistant at a two day HPC workshop on using HPC clusters, OpenMP library, 
 and programming GPUs using the OpenMP library, organised by the National Supercomputing Mission, IIT Madras.
-- Teaching Assistant at IIT Palakkad: i) Compiler Design - Laboratory. ii) Compiler Optimizations and Program
-Analysis iii) Parallel Programming
+- Teaching Assistant for courses at IIT Palakkad: 
+    - Compiler Design - Laboratory (Jan-May, 2023 \& Jan-May, 2021) 
+    - Programming Lab (Aug-Dec, 2022)
+    - Parallel Programming (Jan-May, 2022)
+    - Compiler Optimizations and Program Analysis (Aug-Dec, 2021)
 
 ### Education
 - **Ph.D** Indian Institute of Technnology, Palakkad (2020 - ) 
